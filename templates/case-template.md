@@ -30,7 +30,7 @@ WHERE <condição>;
 
 ![Resultado da consulta](images/<nome_descritivo>.png)
 
-<Se o resultado for pequeno, pode colocar a tabela em Markdown no lugar da imagem.>
+<Resultados pequenos, podem ser colocados como  tabela em Markdown no lugar da imagem.>
 
 ## 5. Interpretação
 
