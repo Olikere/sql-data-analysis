@@ -1,8 +1,8 @@
 # Caso: <título curto e descritivo>
 
-> **Projeto:** <ex.: 01 - SQL Quick Start · Módulo 01>
-> **Banco/Dataset:** <ex.: Chinook (SQLite)>
-> **Status:** <Concluído | Em revisão>
+- **Projeto:** <ex.: 01 - SQL Quick Start · Módulo 01>
+- **Banco/Dataset:** <ex.: Chinook (SQLite)>
+- **Status:** <Concluído | Em revisão>
 
 ---
 
@@ -30,7 +30,7 @@ WHERE <condição>;
 
 ![Resultado da consulta](images/<nome_descritivo>.png)
 
-<Resultados pequenos, podem ser colocados como  tabela em Markdown no lugar da imagem.>
+<Se o resultado for pequeno, pode colocar a tabela em Markdown no lugar da imagem.>
 
 ## 5. Interpretação
 
@@ -40,7 +40,7 @@ WHERE <condição>;
 
 - **Decisões de interpretação:** <ex.: usei `BillingCountry` em vez de `customers.Country` porque...>
 - **O que o resultado não diz:** <ex.: é a média por fatura, não a média anual>
-- **Alternativas consideradas:** <outras formas de resolver e por que escolheu esta>
+- **Alternativas consideradas:** <outras formas de resolver e por que escolhi esta>
 
 ## 7. O que aprendi (opcional)
 
