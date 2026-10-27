@@ -8,7 +8,7 @@
 
 ## 1. Pergunta de negócio
 
-<Escreva a pergunta em linguagem natural, com as suas palavras. Se vier de um livro ou curso, parafraseie.>
+<A pergunta em linguagem natural \>
 
 ## 2. Dados usados
 
@@ -30,11 +30,11 @@ WHERE <condição>;
 
 ![Resultado da consulta](images/<nome_descritivo>.png)
 
-<Se o resultado for pequeno, pode colocar a tabela em Markdown no lugar da imagem.>
+<Imagem ou tabela em Markdown\>
 
 ## 5. Interpretação
 
-<Explique em linguagem natural o que o resultado significa, como se estivesse contando para alguém que não conhece SQL. Inclua a unidade do número (por fatura, por cliente, por ano...).>
+<Explicação em linguagem natural o que o resultado significa>
 
 ## 6. Limitações e decisões
 
@@ -44,4 +44,4 @@ WHERE <condição>;
 
 ## 7. O que aprendi (opcional)
 
-<Erros cometidos, conceitos que ficaram mais claros, o que faria diferente. Se voltar ao caso depois com uma técnica nova, registre aqui o que mudou.>
+<Erros cometidos, conceitos que ficaram mais claros, o que faria diferente.>
