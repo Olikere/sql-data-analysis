@@ -25,7 +25,7 @@ Os exercícios usam o **Chinook**, um banco de exemplo que simula uma loja de m�
 
 | Módulo | Tema | Status |
 |--------|------|--------|
-| [04](module-04/) | SELECT, WHERE, JOIN, GROUP BY, agregações | Concluído |
+| [04](module-04/) | SELECT, WHERE, AS, COMMENTS, ORDER BY , LIMIT,  | Concluído |
 | 05 | A definir | Planejado |
 
 > A tabela é atualizada conforme avanço no livro.
