@@ -2,7 +2,7 @@
 
 - **Projeto:** 01 - SQL Quick Start
 - **Banco/Dataset:** Chinook (SQLite)
-- **Status:** Em andamento
+- **Status:** Concluído
 
 Exercícios sobre a tabela `tracks` e suas ligações com outras tabelas, praticando chaves estrangeiras, `INNER JOIN`, aliases de tabela e de coluna.
 
