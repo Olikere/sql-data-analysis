@@ -28,6 +28,7 @@ Os exercícios usam o **Chinook**, um banco de exemplo que simula uma loja de m�
 | [04](module-04/) | SELECT, WHERE, AS, COMMENTS, ORDER BY , LIMIT,  | Concluído |
 | [05](module-05/) | CASE, AS, WHERE, ORDER BY, COUNT | Concluído |
 | [06](module-06/) | INNER JOIN, chaves estrangeiras, alias de tabela | Concluído |
+| [07](module-07/) | Funções de texto, agregações, GROUP BY, JOIN | Concluído |
 
 > A tabela é atualizada conforme avanço no livro.
 
