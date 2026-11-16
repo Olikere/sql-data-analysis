@@ -25,10 +25,14 @@ Os exercícios usam o **Chinook**, um banco de exemplo que simula uma loja de m�
 
 | Módulo | Tema | Status |
 |--------|------|--------|
-| [04](module-04/) | SELECT, WHERE, AS, COMMENTS, ORDER BY , LIMIT,  | Concluído |
-| [05](module-05/) | CASE, AS, WHERE, ORDER BY, COUNT | Concluído |
-| [06](module-06/) | INNER JOIN, chaves estrangeiras, alias de tabela | Concluído |
-| [07](module-07/) | Funções de texto, agregações, GROUP BY, JOIN | Concluído |
+| [04](module-04/) | SELECT, AS, FROM, ORDER BY, ASC, DESC, LIMIT,  | Concluído |
+| [05](module-05/) | WHERE, CASE, WHEN, THEN, ELSE, END AS, SQL operators, DATE(), COUNT() | Concluído |
+| [06](module-06/) | INNER JOIN, ON, LEFT OUTER JOIN, RIGHT OUTER JOIN, IS, NOT | Concluído |
+| [07](module-07/) | GROUP BY, HAVING | Concluído |
+| [08](module-08/) | DISTINCT | Concluído |
+| [09](module-9/)  | CREATE VIEW, DROP VIEW | Concluído |
+| [10](module-10/) | INSERT INTO, UPDATE, SET, DELETE| Concluído |
+
 
 > A tabela é atualizada conforme avanço no livro.
 
