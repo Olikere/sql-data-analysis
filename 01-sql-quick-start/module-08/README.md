@@ -83,7 +83,7 @@ ORDER BY i.Total DESC;
 *O print mostra apenas as primeiras linhas.*
 
 ### Interpretação
-O resultado lista cada fatura acima da média de 2010 com a data, o valor e o nome do cliente, da maior para a menor. A maior fatura é de [NOME], no valor de [VALOR] dólares.
+O resultado lista cada fatura acima da média de 2010 com a data, o valor e o nome do cliente, da maior para a menor. A maior fatura é de Helena Holý, no valor de 25.86 dólares.
 
 ### Limitações e decisões
 - **Decisões de interpretação:** o `INNER JOIN` liga cada fatura ao seu cliente, e a subconsulta continua definindo o limite de valor.
@@ -139,5 +139,8 @@ Há [N] faturas acima da média de 2010 com cobrança nos EUA, e elas pertencem 
 - **O que o resultado não diz:** `BillingCountry` e `Country` são campos diferentes (país de cobrança e país do cliente) e podem não coincidir.
 - **Alternativas consideradas:** não coloquei `ORDER BY` nessas consultas, porque cada uma devolve uma linha só e ordenar não muda nada.
 
-### O que aprendi
-A mesma subconsulta aparece nas três perguntas. Se o ano de referência mudar, é preciso alterar em vários lugares. Quero revisitar esse ponto quando aprender recursos que permitem nomear e reaproveitar o resultado.
+### Observações
+
+A mesma subconsulta aparece nas três perguntas. Se o ano de referência mudar, é preciso alterar a consulta em vários lugares, o que aumenta o risco de esquecer algum e deixar resultados inconsistentes.
+Depois de aprender views, percebi que elas resolvem esse problema. 
+Uma view guarda uma consulta com um nome, e eu posso usá-la como se fosse uma tabela. Assim, o cálculo da média de 2010 ficaria definido em um só lugar, e as consultas dos três exercícios apenas o reutilizariam. Se o ano de referência mudasse, bastaria alterar a view, e todas as consultas que dependem dela acompanhariam a mudança.
