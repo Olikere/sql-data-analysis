@@ -42,6 +42,8 @@ WHERE <condição>;
 - **O que o resultado não diz:** <ex.: é a média por fatura, não a média anual>
 - **Alternativas consideradas:** <outras formas de resolver e por que escolhi esta>
 
-## 7. O que aprendi (opcional)
+## 7. Observações (opcional)
 
-<Erros cometidos, conceitos que ficaram mais claros, o que faria diferente.>
+## 7. Observações (opcional)
+
+<Aprendizados, erros cometidos, dúvidas que surgiram, o que faria diferente e revisões feitas depois, quando voltar ao caso com uma técnica nova.>
