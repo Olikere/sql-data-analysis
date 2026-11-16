@@ -2,7 +2,7 @@
 
 - **Projeto:** 01 - SQL Quick Start
 - **Banco/Dataset:** Chinook (SQLite)
-- **Status:** Em andamento
+- **Status:** Concluído
 
 Exercícios sobre as tabelas `invoices` e `customers`, praticando subconsultas no `WHERE`, a função de data `STRFTIME`, `COUNT`, `INNER JOIN` e `ORDER BY`.
 
