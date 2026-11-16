@@ -30,7 +30,7 @@ Os exercícios usam o **Chinook**, um banco de exemplo que simula uma loja de m�
 | [06](module-06/) | INNER JOIN, ON, LEFT OUTER JOIN, RIGHT OUTER JOIN, IS, NOT | Concluído |
 | [07](module-07/) | GROUP BY, HAVING | Concluído |
 | [08](module-08/) | DISTINCT | Concluído |
-| [09](module-9/)  | CREATE VIEW, DROP VIEW | Concluído |
+| [09](module-9/)  | CREATE VIEW, DROP VIEW, Subqueries | Concluído |
 | [10](module-10/) | INSERT INTO, UPDATE, SET, DELETE| Concluído |
 
 
