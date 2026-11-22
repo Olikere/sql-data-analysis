@@ -57,7 +57,7 @@ FROM international_debt;
 | 124 |
 
 ### Interpretação
-A tabela tem dados de [N] países distintos.
+A tabela tem dados de 124 países distintos.
 
 ### Limitações e decisões
 - **Decisões de interpretação:** como cada país aparece em várias linhas (uma por indicador), usei `DISTINCT` para contar cada nome uma única vez.
