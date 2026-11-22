@@ -23,7 +23,7 @@ O modelo está em [`templates/case-template.md`](templates/case-template.md).
 | Projeto | Descrição | Dados | Status |
 |---------|-----------|-------|--------|
 | [01 - SQL Quick Start](01-sql-quick-start/) | Exercícios do *Data Analysis Checklist* de cada módulo do livro | Chinook (SQLite) | Concluído |
-| 02 - Dataset real | Análise autoral com dados públicos | A definir | Planejado |
+| [02 - Dívida internacional](02-world-bank-international-debt/) | Projeto do *DataCamp* com dados do World Bank | International debt (DataCamp) | Concluído |
 
 ## Habilidades praticadas
 
